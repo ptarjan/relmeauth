@@ -1,0 +1,3 @@
+[submodule "python-oauth"]
+	path = python-oauth
+	url = git://github.com/ptarjan/python-oauth.git
